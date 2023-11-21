@@ -1,8 +1,8 @@
 export default function BodyNewsletter(){
     return(
         <>
-        <div className="container font-Poppins border bg-[#27005D]">
-            <div className="w-[575px] mb-[-140px] ml-[156px] my-[100px]">
+        <div className="container py-[20px] font-Poppins bg-[#27005D] rounded-t-[30px]">
+            <div className="w-[575px] mb-[-120px] ml-[156px] my-[100px] ">
                 <h1 className="text-[32px] font-bold text-white">
                 Hubungi kami untuk info lebih lanjut
                 </h1>
