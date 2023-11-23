@@ -1,13 +1,11 @@
 import MainBody from './components/MainBody';
+import Sidenavbar from './components/admin/sidenavbar';
+import Article from './components/admin/article';
 
 export default function App() {
   return (
     <>
-    <MainBody />
-    {/* <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-     */}
+      <Sidenavbar />
     </>
   );
 }
